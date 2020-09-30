@@ -22,5 +22,8 @@
   "homepage": "https://github.com/WilliamWang123/gulu-demo#readme",
   "dependencies": {
     "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
   }
 }
